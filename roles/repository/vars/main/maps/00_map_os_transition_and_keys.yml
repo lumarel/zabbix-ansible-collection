@@ -20,9 +20,11 @@ repository_map_os_transition:
   Rocky:
     '8': '8'
     '9': '9'
+    '10': '10'
   AlmaLinux:
     '8': '8'
     '9': '9'
+    '10': '10'
   Amazon:
     '2': '7'
     '2023': '9'
