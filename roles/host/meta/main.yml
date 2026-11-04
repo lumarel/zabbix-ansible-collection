@@ -27,6 +27,7 @@ galaxy_info:
         - "8"
     - name: Ubuntu
       versions:
+        - resolute # 26.04
         - noble  # 24.04
         - jammy  # 22.04
         - focal  # 20.04
