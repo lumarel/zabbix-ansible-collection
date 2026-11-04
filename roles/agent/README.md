@@ -8,7 +8,7 @@ Currently, the following OS of target machines are supported:
 - Alma Linux 8, 9, 10
 - Rocky Linux 8, 9, 10
 - CentOS Stream 9, 10
-- Ubuntu 20.04, 22.04, 24.04
+- Ubuntu 20.04, 22.04, 24.04, 26.04
 - Debian 10, 11, 12
 - Raspberry Pi Os: 11, 12
 
